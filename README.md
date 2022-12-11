@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Zi8pZcvYJIwb6DG2aisZsvPaOa1N_P9a/view](https://drive.google.com/file/d/1Zi8pZcvYJIwb6DG2aisZsvPaOa1N_P9a/view)
 
-- ⚡ Fun fact **I am a human :)**
+- ⚡ Fun fact **I'm a shy, introverted person**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
