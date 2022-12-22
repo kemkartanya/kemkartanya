@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Tanya Kemkar</h1>
-<h3 align="center">Undergraduate student at Delhi Technological University.</h3>
+<h1 align="center">Hello 👋, I'm Tanya Kemkar</h1>
+<h3 align="center">An undergraduate student at Delhi Technological University pursuing BTech in Information Technology.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/akshitagupta15june/akshitagupta15june/master/200w.webp">
 
