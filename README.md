@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tanya Kemkar</h1>
 <h3 align="center">Undergraduate student at Delhi Technological University.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kemkartanya&label=Profile%20views&color=0e75b6&style=flat" alt="kemkartanya" /> </p>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/akshitagupta15june/akshitagupta15june/master/200w.webp">
 
 - 🌱 I’m currently learning **Full Stack Web Development**
