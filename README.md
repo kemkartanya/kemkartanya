@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanya Kemkar</h1>
-<h3 align="center">A passionate frontend and android app developer from India</h3>
+<h3 align="center">A passionate full-stack web and android app developer from India</h3>
 
 - 🌱 I’m currently learning **Android Development**
 
