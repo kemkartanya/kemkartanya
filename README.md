@@ -25,3 +25,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kemkartanya&show_icons=true&locale=en&layout=compact" alt="kemkartanya" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kemkartanya&show_icons=true&locale=en" alt="kemkartanya" /></p>
+
+<p>&nbsp;<img align="center" src="https://user-images.githubusercontent.com/53828745/222923708-ef3e64a6-3020-4845-98f4-1d3c415cb69a.gif" alt="kemkartanya" /></p>
