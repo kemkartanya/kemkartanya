@@ -8,8 +8,8 @@
 <a href="https://www.linkedin.com/in/tanyakemkar/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
 
 - 👩‍🎓 Hey! I'm Tanya, a web and mobile app developer from India.
-- I am currenlty working as Software Engineer at Paytm.
-- I've graduated from Delhi Technological University with Bachelor of Technology in Information Technology.
+- 👩‍💻 I am currenlty working as Software Engineer at Paytm.
+- 🎓 I've graduated from Delhi Technological University with Bachelor of Technology in Information Technology.
 - 👩‍💻 I am always open to collaborating on projects and innovative ideas.
 - ⚡ Reach out to me at **tanyakemkar@gmail.com**
 
