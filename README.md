@@ -9,7 +9,6 @@
 
 - 👩‍🎓 Hey! I'm Tanya, a web and mobile app developer from India.
 - I've graduated from Delhi Technological University with Bachelor of Technology in Information Technology.
-- My preferred pronouns are **she/her/hers**.
 - 👩‍💻 I am always open to collaborating on projects and innovative ideas.
 - ⚡ Reach out to me at **tanyakemkar@gmail.com**
 
