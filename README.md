@@ -22,6 +22,7 @@
 <img height=25 src="https://img.shields.io/badge/-java-E34A86?style=for-the-badge&logo=java&logoColor=white">&nbsp;&nbsp;
 <img height=25 src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">&nbsp;&nbsp;
 <img height=25 src="https://img.shields.io/badge/python-%2300599C.svg?style=for-the-badge&logo=python%2B%2B&logoColor=white">&nbsp;&nbsp;
+<img height=25 src="https://img.shields.io/badge/kotlin-%2300599C.svg?style=for-the-badge&logo=kotlin%2B%2B&logoColor=white">&nbsp;&nbsp;
 
 #### **Frameworks, Platforms and Libraries**
 <img height=25 src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">&nbsp;&nbsp;
@@ -29,6 +30,7 @@
 
 #### **Databases**
 <img height=25 src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">&nbsp;&nbsp;
+<img height=25 src="https://img.shields.io/badge/MySQL-%234ea94b.svg?style=for-the-badge&logo=mysql&logoColor=white">&nbsp;&nbsp;
 
 #### **DevOps & Cloud Tools**
 <img height=25 src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=white">&nbsp;&nbsp;
