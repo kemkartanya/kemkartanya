@@ -29,6 +29,7 @@
 #### **Frameworks, Platforms and Libraries**
 <img height=25 src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">&nbsp;&nbsp;
 <img height=25 src="https://img.shields.io/badge/bootstrap-%23404d59.svg?style=for-the-badge&logo=bootstrap&logoColor=%2361DAFB">&nbsp;&nbsp;
+<img height=25 src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">&nbsp;&nbsp;
 
 #### **Databases**
 <img height=25 src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">&nbsp;&nbsp;
