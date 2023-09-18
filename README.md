@@ -1,6 +1,5 @@
 <h1 align="center">Hey, I'm Tanya Kemkar</h1> 
 
-
 ## :wave: About Me 
 <a href="https://twitter.com/kemkartanya" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
 
