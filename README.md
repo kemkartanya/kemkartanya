@@ -1,6 +1,5 @@
 <h1 align="center">Hey, I'm Tanya Kemkar</h1> 
 
-<p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> </p>
 
 ## :wave: About Me 
 <a href="https://twitter.com/kemkartanya" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
