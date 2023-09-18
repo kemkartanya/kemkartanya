@@ -9,6 +9,7 @@ I am _Tanya Kemkar_. I'm working remotely as a **Full Stack Developer** 🚀 for
 - Node.js
 - MongoDB
 - Android Studio & Kotlin
+- Django
 
 <p align="left"> 
 <a href="https://reactjs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" width="40" height="40"/> </a>
