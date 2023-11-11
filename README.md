@@ -1,15 +1,15 @@
 # Hello! 👋👋
 
-I am _Tanya Kemkar_. I'm working remotely as a **Full Stack Developer** 🚀 for a US-based tech startup. I'm highly skilled with **JavaScript/TypeScript** 💻 and all its associated runtimes. I'm someone who is always on the lookout for modern tools that would improve the experience of both the developers and end-users. I'm a huge _Productivity nerd_ who constantly tries to implement workflows and processes that would help me improve my productivity as a developer.
+I am _Tanya Kemkar_. I'm working remotely as a **Full Stack Developer** 🚀 for a US-based tech startup. I'm highly skilled with **JavaScript/TypeScript** 💻 and all its associated runtimes. I also build Android Apps in Kotlin. 
 
 
 ### 🌟 Technologies I've worked with:
 
-- React
+- ReactJs
 - Node.js
+- Express.js
 - MongoDB
 - Android Studio & Kotlin
-- Django
 
 <p align="left"> 
 <a href="https://reactjs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" width="40" height="40"/> </a>
