@@ -1,6 +1,6 @@
 # Hello! 👋👋
 
-I am _Tanya Kemkar_. I'm working remotely as a **Full Stack Developer** 🚀 for a US-based tech startup. I'm highly skilled with **JavaScript/TypeScript** 💻 and all its associated runtimes. I also build Android Apps in Kotlin. I'm passionate about Coding, Technology and Building awesome apps. 
+I am _Tanya Kemkar_. I'm working remotely as a **Full Stack Developer** 🚀 for a US-based tech startup. I'm highly skilled with **JavaScript/TypeScript** 💻 and all its associated runtimes. <br/> I also build Android Apps in Kotlin. <br/> I'm passionate about Coding, Technology and Building awesome apps. 
 
 
 ### 🌟 Technologies I've worked with:
