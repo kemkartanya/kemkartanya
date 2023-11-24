@@ -38,8 +38,6 @@ I am _Tanya Kemkar_. I'm working remotely as a **Full Stack Developer** 🚀 for
 [react-link]: https://reactjs.org/
 [react-badge]: https://img.shields.io/badge/React.js-00D8FF?logoColor=20232A&logo=react
 
-<!-- 
-======================== 
 <p align="left"> 
 <a href="https://reactjs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://nodejs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="node" width="40" height="40"/> </a>
