@@ -18,6 +18,28 @@ I am _Tanya Kemkar_. I'm working remotely as a **Full Stack Developer** 🚀 for
   [ ![react][react-badge] ][react-link]
 
 </td>
+<!-- TypeScript -->
+
+[typescript-link]: https://typescriptlang.org/
+[typescript-badge]: https://img.shields.io/badge/TypeScript-3178C6?logoColor=FFF&logo=typescript
+
+<!-- Vite -->
+
+[vite-link]: https://vitejs.dev/
+[vite-badge]: https://img.shields.io/badge/Vite-B73BFE?logoColor=FFD62E&logo=vite
+
+<!-- Next.js -->
+
+[next.js-link]: https://nextjs.org/
+[next.js-badge]: https://img.shields.io/badge/Next.js-000?logoColor=FFF&logo=next.js
+
+<!-- React -->
+
+[react-link]: https://reactjs.org/
+[react-badge]: https://img.shields.io/badge/React.js-00D8FF?logoColor=20232A&logo=react
+
+<!-- 
+======================== 
 <p align="left"> 
 <a href="https://reactjs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://nodejs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="node" width="40" height="40"/> </a>
