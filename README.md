@@ -4,20 +4,32 @@ I am _Tanya Kemkar_. I'm working remotely as a **Full Stack Developer** 🚀 for
 
 
 ### 🌟 Technologies I've worked with:
- <td>
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-  [ ![javascript][javascript-badge] ][javascript-link]
-  [ ![vite][vite-badge] ][vite-link]
-  [ ![tailwindcss][tailwind-css-badge] ][tailwind-css-link]
-  [ ![react][react-badge] ][react-link]
-  [ ![express][express-badge] ][express-link]
-  [ ![node][node-badge] ][node-link]
-  [ ![mongodb][mongodb-badge] ][mongodb-link]
-  [ ![sql][sql-badge] ][sql-link]
-  [ ![android][android-badge] ][android-link]
-  [ ![kotlin][kotlin-badge] ][kotlin-link]
+###
 
-</td>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
+
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
 
 ### 📫 How to reach me?
 
@@ -32,80 +44,3 @@ I am _Tanya Kemkar_. I'm working remotely as a **Full Stack Developer** 🚀 for
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kemkartanya&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-<!-- TypeScript -->
-
-[typescript-link]: https://typescriptlang.org/
-[typescript-badge]: https://img.shields.io/badge/TypeScript-3178C6?logoColor=FFF&logo=typescript
-
-<!-- JavaScript -->
-
-[javascript-link]: [https://javascriptlang.org/](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[javascript-badge]: https://img.shields.io/badge/JavaScript-3178C6?logoColor=FFF&logo=javascript
-
-<!-- Vite -->
-
-[vite-link]: https://vitejs.dev/
-[vite-badge]: https://img.shields.io/badge/Vite-B73BFE?logoColor=FFD62E&logo=vite
-
-<!-- Next.js -->
-
-[next.js-link]: https://nextjs.org/
-[next.js-badge]: https://img.shields.io/badge/Next.js-000?logoColor=FFF&logo=next.js
-
-<!-- React -->
-
-[react-link]: https://reactjs.org/
-[react-badge]: https://img.shields.io/badge/React.js-00D8FF?logoColor=20232A&logo=react
-
-
-<!-- Tailwind CSS -->
-
-[tailwind-css-link]: https://tailwindcss.com/
-[tailwind-css-badge]: https://img.shields.io/badge/Tailwind_CSS-38BDF8?&logoColor=FFF&logo=tailwind-css
-
-<!-- MongoDB -->
-
-[mongodb-link]: https://mongodb.org/
-[mongodb-badge]: https://img.shields.io/badge/mongodb-00D8FF?logoColor=008000&logo=mongodb
-
-<!-- SQL -->
-
-[sql-link]: https://sql.org/
-[sql-badge]: https://img.shields.io/badge/sql-00D8FF?logoColor=20232A&logo=sql
-
-<!-- Express.js -->
-
-[express-link]: https://expressjs.org/
-[express-badge]: https://img.shields.io/badge/Express.js-00D8FF?logoColor=20232A&logo=express
-
-<!-- Node.js -->
-
-[node-link]: https://nodejs.org/
-[node-badge]: https://img.shields.io/badge/Node.js-00D8FF?logoColor=20232A&logo=node
-
-<!-- Android -->
-
-[android-link]: https://android.org/
-[android-badge]: https://img.shields.io/badge/Android-00D8FF?logoColor=20232A&logo=android
-
-<!-- Kotlin -->
-
-[kotlin-link]: https://kotlin.org/
-[kotlin-badge]: https://img.shields.io/badge/Android.js-00D8FF?logoColor=20232A&logo=android
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
