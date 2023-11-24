@@ -67,7 +67,7 @@ I am _Tanya Kemkar_. I'm working remotely as a **Full Stack Developer** 🚀 for
 <!-- MongoDB -->
 
 [mongodb-link]: https://mongodb.org/
-[mongodb-badge]: https://img.shields.io/badge/mongodb-00D8FF?logoColor=20232A&logo=mongodb
+[mongodb-badge]: https://img.shields.io/badge/mongodb-00D8FF?logoColor=008000&logo=mongodb
 
 <!-- SQL -->
 
