@@ -12,6 +12,8 @@ I am _Tanya Kemkar_. I'm working remotely as a **Full Stack Developer** 🚀 for
   [ ![react][react-badge] ][react-link]
   [ ![express][express-badge] ][express-link]
   [ ![node][node-badge] ][node-link]
+  [ ![mongodb][mongodb-badge] ][mongodb-link]
+  [ ![sql][sql-badge] ][sql-link]
   [ ![android][android-badge] ][android-link]
   [ ![kotlin][kotlin-badge] ][kotlin-link]
 
