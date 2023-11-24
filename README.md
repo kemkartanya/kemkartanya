@@ -10,6 +10,10 @@ I am _Tanya Kemkar_. I'm working remotely as a **Full Stack Developer** 🚀 for
   [ ![vite][vite-badge] ][vite-link]
   [ ![tailwindcss][tailwind-css-badge] ][tailwind-css-link]
   [ ![react][react-badge] ][react-link]
+  [ ![express][express-badge] ][express-link]
+  [ ![node][node-badge] ][node-link]
+  [ ![android][android-badge] ][android-link]
+  [ ![kotlin][kotlin-badge] ][kotlin-link]
 
 </td>
 
@@ -34,7 +38,7 @@ I am _Tanya Kemkar_. I'm working remotely as a **Full Stack Developer** 🚀 for
 
 <!-- JavaScript -->
 
-[javascript-link]: https://javascriptlang.org/
+[javascript-link]: [https://javascriptlang.org/](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [javascript-badge]: https://img.shields.io/badge/JavaScript-3178C6?logoColor=FFF&logo=javascript
 
 <!-- Vite -->
@@ -57,6 +61,42 @@ I am _Tanya Kemkar_. I'm working remotely as a **Full Stack Developer** 🚀 for
 
 [tailwind-css-link]: https://tailwindcss.com/
 [tailwind-css-badge]: https://img.shields.io/badge/Tailwind_CSS-38BDF8?&logoColor=FFF&logo=tailwind-css
+
+<!-- MongoDB -->
+
+[mongodb-link]: https://mongodb.org/
+[mongodb-badge]: https://img.shields.io/badge/mongodb-00D8FF?logoColor=20232A&logo=mongodb
+
+<!-- SQL -->
+
+[sql-link]: https://sql.org/
+[sql-badge]: https://img.shields.io/badge/sql-00D8FF?logoColor=20232A&logo=sql
+
+<!-- Express.js -->
+
+[express-link]: https://expressjs.org/
+[express-badge]: https://img.shields.io/badge/Express.js-00D8FF?logoColor=20232A&logo=express
+
+<!-- Node.js -->
+
+[node-link]: https://nodejs.org/
+[node-badge]: https://img.shields.io/badge/Node.js-00D8FF?logoColor=20232A&logo=node
+
+<!-- Android -->
+
+[android-link]: https://android.org/
+[android-badge]: https://img.shields.io/badge/Android-00D8FF?logoColor=20232A&logo=android
+
+<!-- Kotlin -->
+
+[kotlin-link]: https://kotlin.org/
+[kotlin-badge]: https://img.shields.io/badge/Android.js-00D8FF?logoColor=20232A&logo=android
+
+
+
+
+
+
 
 
 
