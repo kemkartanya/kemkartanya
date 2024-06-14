@@ -14,6 +14,7 @@ I'm always open to collaboration and always excited about working with other dev
 - **Languages:** C++, JavaScript (Node.js, React.js), Python, Kotlin
 - **Backend Development:** Express.js, Django, Flask
 - **Frontend Development:** HTML, CSS, Sass, Material-UI, Tailwind
+- **Mobile Development:** Android Studio, React Native
 - **Database:** Firebase, MySQL, MongoDB
 - **Version Control:** Git, GitHub
 - **Machine Learning:** Scikit-learn, TensorFlow (beginner level)
