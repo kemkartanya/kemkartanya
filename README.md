@@ -20,3 +20,25 @@ I'm always open to collaboration and always excited about working with other dev
 - **Machine Learning:** Scikit-learn, TensorFlow (beginner level)
 - **DevOps:** Docker, Kubernetes (in progress)
 
+
+
+## Question:
+
+The majority of the world's population lives in the: 
+
+A) Northern Hemisphere. 
+B) Southern Hemisphere.
+C) Eastern Hemisphere.
+D) Western Hemisphere. 
+
+## Answer: 
+
+**A) Northern Hemisphere.** 
+
+## Explanation:
+
+Though landmass is concentrated in the Northern Hemisphere, approximately 90% of the human population lives in the Northern Hemisphere. This is due to several factors, including:
+
+* **Favorable Climate:** The Northern Hemisphere contains large landmasses with temperate climates suitable for agriculture and human settlement. 
+* **Historical Development:** Many early civilizations developed in the Northern Hemisphere, providing a head start for population growth.
+* **Economic Opportunities:** The Northern Hemisphere is home to many developed and emerging economies, attracting large populations. 
